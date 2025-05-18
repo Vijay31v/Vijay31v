@@ -6,7 +6,7 @@
 ### 🌟 About Me
 - 🌱 **Currently Exploring:** AWS & Agentic AI  
 - 👨‍💻 **Portfolio:** [https://vijayvelaga.me](https://vijayvelaga.me)  
-- 📫 **Reach Me At:** **vijay31v@gmail.com**
+- 📫 **Reach Me At:** **vijayvelaga31@gmail.com**
 
 ---
 
